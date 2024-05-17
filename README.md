@@ -129,4 +129,6 @@ limitations under the License.
 
 #### tailwindcss
 
-#### prettier 
+#### prettier
+
+#### CLSX library helper function to combine tailwind classes.
