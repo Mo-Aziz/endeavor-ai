@@ -132,3 +132,7 @@ limitations under the License.
 #### prettier
 
 #### CLSX library helper function to combine tailwind classes.
+
+#### Tailwind CSS Typography plugin
+
+#### React Icons
