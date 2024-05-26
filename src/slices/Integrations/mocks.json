@@ -1,0 +1,110 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Definition"
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Id dolore elit aliquip commodo adipisicing cillum ut cillum anim. Eiusmod dolore id consequat adipisicing esse reprehenderit mollit elit excepteur adipisicing aliqua."
+						}
+					}
+				]
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"icon",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "github",
+							"type": "Select"
+						}
+					]
+				]
+			},
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"icon",
+						{
+							"__TYPE__": "FieldContent",
+							"type": "Select",
+							"value": "npm"
+						}
+					]
+				]
+			},
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"icon",
+						{
+							"__TYPE__": "FieldContent",
+							"type": "Select",
+							"value": "figma"
+						}
+					]
+				]
+			},
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"icon",
+						{
+							"__TYPE__": "FieldContent",
+							"type": "Select",
+							"value": "cloudflare"
+						}
+					]
+				]
+			},
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"icon",
+						{
+							"__TYPE__": "FieldContent",
+							"type": "Select",
+							"value": "digitalocean"
+						}
+					]
+				]
+			},
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"icon",
+						{
+							"__TYPE__": "FieldContent",
+							"type": "Select",
+							"value": "fly"
+						}
+					]
+				]
+			}
+		]
+	}
+]
