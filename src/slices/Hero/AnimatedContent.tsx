@@ -13,6 +13,14 @@ import {
 import gsap from "gsap";
 import { useGSAP } from "@gsap/react";
 import usePrefersReducedMotion from "@/hooks/usePrefersReducedMotion";
+import {
+  FaCloudflare,
+  FaDigitalOcean,
+  FaFigma,
+  FaFly,
+  FaGithub,
+  FaNpm,
+} from "react-icons/fa6";
 
 export default function AnimatedContent({
   slice,
@@ -22,7 +30,14 @@ export default function AnimatedContent({
   const container = useRef(null);
   const prefersReducedMotion = usePrefersReducedMotion();
   gsap.registerPlugin(useGSAP);
-
+  const icons = {
+    digitalocean: <FaDigitalOcean />,
+    cloudflare: <FaCloudflare />,
+    npm: <FaNpm />,
+    github: <FaGithub />,
+    figma: <FaFigma />,
+    fly: <FaFly />,
+  };
   useGSAP(
     () => {
       if (prefersReducedMotion) {
