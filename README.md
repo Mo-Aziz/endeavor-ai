@@ -1,5 +1,5 @@
 
-## 🚀 libraries and frame work used to build the app
+## 🚀 libraries and frameworks used to build the app
 
 #### prismic cms
 
@@ -11,6 +11,6 @@
 
 #### CLSX library helper function to combine tailwind classes.
 
-#### Tailwind CSS Typography plugin
+#### Tailwind CSS Typography plugin prose
 
 #### React Icons
